@@ -9,7 +9,7 @@ import os
 
 url = "http://suninjuly.github.io/explicit_wait2.html"
 
-    
+
 def calc(x):
     return str(math.log(abs(12*math.sin(int(x)))))
 
@@ -38,3 +38,6 @@ try:
 
 finally:
     print('done')
+
+
+# This string for test
